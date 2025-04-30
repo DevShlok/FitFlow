@@ -1,6 +1,10 @@
 Split Terminal
 
-Teminal 1:  cd .\aifeatures\
+Teminal 1: 
+
+
+cd .\aifeatures\
+
 
  npm install
 
